@@ -1,3 +1,3 @@
 Capital City: London
 Population: 60 million
-Sawns: King owns them all
+Swans: King owns them all
