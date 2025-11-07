@@ -1,0 +1,2 @@
+Capital: Paris
+Language: French
